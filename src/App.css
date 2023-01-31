@@ -1,3 +1,13 @@
 .App {
   text-align: center;
 }
+
+.nav_active{
+  color: darkslategray;
+  background-color: lightsteelblue;
+  text-decoration: none;
+}
+.nav_dont_active{
+  color: white;
+  text-decoration: none;
+}
